@@ -1,0 +1,21 @@
+{
+  "name": "@rudyjuffermans/test",
+  "version": "0.1.0",
+  "description": "Removes all spaces from a string",
+  "repository": "rudyjuffermans/test",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "bamblehorse"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ""
+}
